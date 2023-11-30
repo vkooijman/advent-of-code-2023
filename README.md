@@ -11,3 +11,9 @@ The command line utility `rustup` is available for managing Rust and associated 
 Validate succesfull installation of Rust using:
 
 `rustc --version`
+
+## References:
+
+* https://overexact.com/rust-for-professionals/
+* https://doc.rust-lang.org/book/title-page.html
+* https://cheats.rs/
